@@ -18,12 +18,15 @@ A library management application written in Python using the Tkinter library and
 ## Screenshots
 
 1. **Adding a Book**:
+   
    ![Adding a Book](img/img_1.png)
 
-2. **Successful Addition of a New Book**:
+3. **Successful Addition of a New Book**:
+
    ![Successful Addition of a New Book](img/img_2.png)
 
-3. **Result of Database Query**:
+5. **Result of Database Query**:
+
    ![Result of Database Query](img/img_3.png)
 
 ## Requirements
